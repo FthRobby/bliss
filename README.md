@@ -1,3 +1,3 @@
 # bliss
 ### Project Result
-  <img src="result.png" width=600 />
+  <img src="result-2.png" width=600 />
